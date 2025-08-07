@@ -26,6 +26,7 @@ def load_data():
     df.set_index('time', inplace=True)  # Establece 'time' como índice
     return df 
     # To do: Completar la función 
+    # This is an example changéin the file
     
 
 # Cargar datos
